@@ -33,7 +33,7 @@ Github logo: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/
 
 | N | Language name |
 | :- | ------------:|
-| 1 | **JavaScript**|
+| 1 | *JavaScript*|
 | 2 | TypeScript    |
 | 3 | ~~Node.JS~~   |
 | 4 | React         |
