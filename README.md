@@ -20,6 +20,6 @@
     <li>Ordered List #4</li>
 </ol>
 
-<a href = "https://www.google.com">Link to Google</a>
+<a href = "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images">Learn Markdown syntax</a>
 <br>
 <img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" style="width:104px;height:142px;" alt="Picture">
