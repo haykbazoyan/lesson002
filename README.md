@@ -22,4 +22,4 @@
 
 <a href = "https://www.google.com">Link to Google</a>
 <br>
-<img src="i_mage.jpg" alt="Picture">
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" style="width:104px;height:142px;" alt="Picture">
