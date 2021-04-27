@@ -18,7 +18,7 @@
 [Inline style link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
 
 Some links examples in one line without ID: [Google][1] [Yandex][2] [Mail.RU][3]
-[1]: http://www.google.com "Optional Title Here"
+[1]: http://www.google.com 
 [2]: http://www.yandex.ru
 [3]: http://www.mail.ru 
 
