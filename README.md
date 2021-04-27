@@ -25,3 +25,8 @@ Github logo: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/
 | 2 | TypeScript    |
 | 3 | Node.JS       |
 | 4 | React         |
+
+```javascript
+let userName = "Hayk"
+let userSurname = "Bazoyan"
+alert (userName + " " + userSurname)
