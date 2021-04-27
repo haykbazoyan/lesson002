@@ -3,39 +3,24 @@
 ### Header H3
 ##### Header H4
 ###### Header H5
-####### Header H6
-<br>
-<p>Ordered & Unordered Lists</p>
-<ul>
-    <li>Unordered List #1</li>
-    <li>Unordered List #2</li>
-    <li>Unordered List #3</li>
-    <li>Unordered List #4</li>
-</ul>
-<ol>
-    <li>Ordered List #1</li>
-    <li>Ordered List #2</li>
-    <li>Ordered List #3</li>
-    <li>Ordered List #4</li>
-</ol>
+###### Header H6
 
-<a href = "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images">Learn Markdown syntax</a>
-<br>
-<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" style="width:104px;height:142px;" alt="Picture">
+* Unordered List #1
+* Unordered List #2
+* Unordered List #3
+* Unordered List #4
+1. Ordered List #1
+2. Ordered List #2
+3. Ordered List #3
+4. Ordered List #4
 
-<p>Table<br></p>
 
-<table style="border:1px solid black">
-    <tr>
-        <th>N</th>
-        <th>Languages name</th>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>JavaScript</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>Node.JS</td>
-    </tr>
-</table>
+[Inline style link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
+
+Github logo: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo")
+
+| N | Language name |
+| 1 | JavaScript    |
+| 2 | TypeScript    |
+| 3 | Node.JS       |
+| 4 | React         |
