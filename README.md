@@ -20,6 +20,7 @@
 Github logo: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo")
 
 | N | Language name |
+| - | ------------- |
 | 1 | JavaScript    |
 | 2 | TypeScript    |
 | 3 | Node.JS       |
