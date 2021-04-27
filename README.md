@@ -30,3 +30,5 @@ Github logo: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/
 let userName = "Hayk"
 let userSurname = "Bazoyan"
 alert (userName + " " + userSurname)
+
+> And some text for Blockquotes. I can put **Markdown** into a blockquote. 
