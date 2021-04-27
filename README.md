@@ -17,10 +17,10 @@
 
 [Inline style link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
 
-Some links examples in one line without ID: [Google][1]; [Yandex][2]; [Mail.RU][3]
+Some links examples in one line without ID: [Google][1] [Yandex][2] [Mail.RU][3]
 [1]: http://www.google.com "Optional Title Here"
 [2]: http://www.yandex.ru
-[3]: http://www.mail.ru
+[3]: http://www.mail.ru 
 
 Github logo: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo")
 
