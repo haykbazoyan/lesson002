@@ -5,7 +5,7 @@
 <h5>Header H1</h5>
 <h6>Header H1</h6>
 <alt-h1>Alternative H1</alt-h1>
-<br/>
+<br>
 <p>Ordered & Unordered Lists</p>
 <ul>
     <li>Unordered List #1</li>
@@ -21,4 +21,5 @@
 </ol>
 
 <a href = "https://www.google.com">Link to Google</a>
+<br>
 <img src="i_mage.jpg" alt="Picture">
