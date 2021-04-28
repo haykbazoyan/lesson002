@@ -1,2 +1,3 @@
 Some text
 New text line
+Now this line would not be able for see
